@@ -1,8 +1,0 @@
-即刻处理问题（无论白天还是夜晚），比如：重置用户密码并立即解锁账户
-精确的性能数据来保持Active Directory性能稳定，监控工具不仅提供性能数据，还应提供有意义的说明，表明这些数据为何影响Active Directory性能。比如：Service
-数据（DFS，DNS， File Replication, Intersite Messaging, Kerberos Key Distributioni Center, Windows Time, DNS CLient, Security Accounts Manager
-, RPC,Net Logon）, LDAP Active Threads, LDAP BIND TIme, LDAP CLient Sessions, Directory Service Threads in Use, 虚拟、物理内存利用率。磁盘I/O
-监控硬件监控状况，使服务器基础设施始终保持健康状态
-管理IT资产
-SLA 
-
